@@ -1,0 +1,35 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("photos/bg-body.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-weight: bolder;
+  }
+
+  #navbarbg {
+    background-image: url("photos/ha-navbarbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  #footbg {
+    background-image: url("photos/bg-foot.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+  }
+
+  nav {
+    font-weight: bolder;
+    font-size: larger;
+  }
+
+  .bg-post {
+    background: rgba(255, 255, 255, 0.5);
+  }
