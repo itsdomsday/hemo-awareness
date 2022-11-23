@@ -33,3 +33,7 @@ body {
   .bg-post {
     background: rgba(255, 255, 255, 0.75);
   }
+
+  .author {
+    border-radius: 50%;
+  }
